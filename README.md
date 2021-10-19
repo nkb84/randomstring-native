@@ -9,13 +9,6 @@ Install the module with: `npm install randomstring-native`
 
 ## Documentation
 
-You can call the randomString-Method with additional options for specifing how long your resulting string should be and which characters to include
-
-```javascript
-// e.g. you want a string with a length of 20
-var x = randomString({length: 20});
-```
-
 ### options
 
 #### options.length
